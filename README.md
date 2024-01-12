@@ -31,4 +31,4 @@ __Interacting with WaterBoy:__ Type your micro-farming questions in the chat box
 __Additional Features:__ Explore the various functionalities such as the text-to-speech feature or the assistant's response copy feature
 
 ## Credits:
-Built during Forge's SWE Launch Crash Course Jan 2024 by Tiffany Fu, Samuel Glasscock, and Rishi Sarraff. Supervised by Byron Richards and Simon Anderson.
+Built during Forge's SWE Launch Crash Course Jan 2024 by Rishi Sarraff, Tiffany Fu, and Samuel Glasscock. Supervised by Byron Richards and Simon Anderson.
